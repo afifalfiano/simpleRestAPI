@@ -1,2 +1,2 @@
 ## Reference
-https://www.golangprograms.com/golang/cat/beego-framework-tutorial/post/beego-migration/
+https://medium.com/the-andela-way/build-a-restful-json-api-with-golang-85a83420c9da
